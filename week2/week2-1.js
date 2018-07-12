@@ -6,4 +6,4 @@ console.log(`the length is ${myString.length}`);
 a = myString.replace(/,/g, " ");
 //'hello this is a difficult to read sentence'
 console.log(a);
-//hello this is a difficult to read sentence
+//hello this is a difficult to read sentence.
